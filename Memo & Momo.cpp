@@ -1,4 +1,4 @@
-clude <iostream>
+include <iostream>
 using namespace std;
 int main() {
   long long a,b,k;
